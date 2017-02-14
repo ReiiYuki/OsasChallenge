@@ -1,0 +1,22 @@
+{
+  "name": "osas-frontend",
+  "version": "1.0.0",
+  "description": "lazy to describe",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiiYuki/OsasChallenge.git"
+  },
+  "keywords": [
+    "osas"
+  ],
+  "author": "Voraton Lertrattanapaisal",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ReiiYuki/OsasChallenge/issues"
+  },
+  "homepage": "https://github.com/ReiiYuki/OsasChallenge#readme"
+}
