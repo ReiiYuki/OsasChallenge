@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "webpack-dev-server --hot --inline --progress --open",
-    "build": "webpack --progress --colors --optimize-min"
+    "build": "webpack --progress --colors --optimize-minimize"
   },
   "repository": {
     "type": "git",
