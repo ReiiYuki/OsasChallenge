@@ -1,0 +1,1 @@
+export OsasChallenge from './OsasChallenge'
